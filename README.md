@@ -50,7 +50,7 @@ This section contains instructions on getting the code running. It is recommende
 
 To run a bot on Discord, you first need to create the bot on the Discord website. Once created, you need to retrieve the bot's secret token.
 
-You then need to add this token to the code base. Specifically, create a file called `secrets.txt` in the `secrets/` directory. The file should then contain a single line in the format:
+You then need to add this token to the code base. Specifically, create a file called `secrets.txt` in the `bot_code/secrets/` directory. The file should then contain a single line in the format:
 
 `token your_bots_secret_token`
 
