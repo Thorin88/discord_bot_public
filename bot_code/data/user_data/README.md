@@ -1,0 +1,1 @@
+Data that the bot will be updating and loading about its users

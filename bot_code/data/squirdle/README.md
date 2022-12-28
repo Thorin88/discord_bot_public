@@ -1,0 +1,1 @@
+Images were sourced from https://squirdle.fireblend.com/

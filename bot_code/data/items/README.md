@@ -1,0 +1,1 @@
+This folder will contain images of RuneScape items that the bot show. These are scraped as needed.

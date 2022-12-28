@@ -1,0 +1,19 @@
+# Things to keep hidden
+secrets/*
+!secrets/README.md
+
+# pycache
+__pycache__/*
+command_functions/__pycache__/*
+scraping/__pycache__/*
+
+# Jupyter
+.ipynb_checkpoints/*
+
+# Ignored since the code can regenerate these images
+data/items/*
+!data/items/README.md
+
+# Code does not scrape these images yet
+# data/other/*
+# !data/other/README.md
